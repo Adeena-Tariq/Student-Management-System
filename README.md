@@ -6,14 +6,14 @@ A console-based Student Data Management System developed in **C++** for efficien
 
 ## 🚀 Features
 
-- 🔐 Secure Admin Login
-- 👨‍🎓 Student Registration System
-- 📚 Marks Entry for Multiple Subjects
-- 📊 Automatic Grade Calculation
-- 📈 Student Record Sorting
-- 📋 Attendance Management
-- 📂 File Handling & Data Persistence
-- ✅ Input Validation & Error Handling
+-  Secure Admin Login
+- Student Registration System
+- Marks Entry for Multiple Subjects
+-  Automatic Grade Calculation
+-  Student Record Sorting
+-  Attendance Management
+-  File Handling & Data Persistence
+-  Input Validation & Error Handling
 
 ---
 
